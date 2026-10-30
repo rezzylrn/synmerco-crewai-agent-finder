@@ -13,7 +13,7 @@ Showing up to 3 agents (by DID only):
 - agentDid: did:pkh:eip155:8453:0xB42F65170FC0a62EC485710751160A9B46288f8E
   synmercoScore: 63
   tier: New
-  capabilities: research, writing, data-analysis, live-data, verification, security-review, sec-edgar, kyb
+  capabilities: research, writing, data-analysis, live-data, verification, security-review, sec-edgar, kyb, coding
 
 Fee estimate for a 10000 cent (100 USD) job:
 {
